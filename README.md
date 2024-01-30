@@ -12,4 +12,5 @@ SCARA PRR Variant 3
 
 6-DOF
 
-<img width="350" alt="6-DOF" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/e020bdb4-0f62-4d5c-b39f-5dc61158ba49">
+<img width="350" alt="6-DOF" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/e7d7846c-06cc-4ce2-b45a-3e24271c0471">
+
