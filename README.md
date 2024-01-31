@@ -14,3 +14,6 @@ SCARA PRR Variant 3
 
 <img width="350" alt="6-DOF" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/e7d7846c-06cc-4ce2-b45a-3e24271c0471">
 
+**2. D-H Notation**
+
+<img width="350" alt="D-H N" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/031a0762-396d-4da9-ac0f-0684a220d31f">
