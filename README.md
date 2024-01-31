@@ -20,4 +20,10 @@ SCARA PRR Variant 3
 
 Example:
 
+Step 3: Plug the table into the Homogeneous Transformation Matrix formula.
+
 <img width="400" alt="Example" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/dd9f01ae-e27d-45e3-8688-25b7509832ef">
+
+Step 4: Multiply the matrices together
+
+<img width="226" alt="HTM" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/5dd047c7-7b3b-47d4-bb9e-2f7dd596f7b8">
