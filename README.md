@@ -36,6 +36,9 @@ Example:
 
 <img width="500" alt="FK2" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/74ee324e-88f3-4d76-b214-d42160d72b8b">
 
+Any of the 2 processes, it will still arrive on the same answer.
+
+<img width="500" alt="FK3" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/b7b068a2-2570-48a6-aea4-f1f53227d67a">
 
 
 
