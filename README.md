@@ -40,5 +40,8 @@ Any of the 2 processes, it will still arrive on the same answer.
 
 <img width="500" alt="FK3" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/b7b068a2-2570-48a6-aea4-f1f53227d67a">
 
+Determining the position and direction using Forward Kinematics.
+
+<img width="500" alt="FK4" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/495ddfd2-0eed-44fe-82b6-77b8e831553e">
 
 
