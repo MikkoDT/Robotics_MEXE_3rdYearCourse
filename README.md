@@ -32,4 +32,10 @@ Step 4: Multiply the matrices together
 
 <img width="475" alt="FK1" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/e42568c6-3e60-4fb1-b26a-5918474e1986">
 
+Example:
+
+<img width="500" alt="FK2" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/74ee324e-88f3-4d76-b214-d42160d72b8b">
+
+
+
 
