@@ -27,3 +27,9 @@ Step 3: Plug the table into the Homogeneous Transformation Matrix formula.
 Step 4: Multiply the matrices together
 
 <img width="226" alt="HTM" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/5dd047c7-7b3b-47d4-bb9e-2f7dd596f7b8">
+
+**3. Forward Kinemtics**
+
+<img width="475" alt="FK1" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/e42568c6-3e60-4fb1-b26a-5918474e1986">
+
+
