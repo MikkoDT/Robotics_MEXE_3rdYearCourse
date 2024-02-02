@@ -50,3 +50,6 @@ If θ1=0֯ and θ2=0֯:
 
 <img width="400" alt="Pract3 1" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/d6841e9e-02e9-4e74-a2b3-5c151db5ec96">
 
+If θ1=90֯ and θ2=-90֯:
+
+<img width="400" alt="Pract3 2" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/2668d6ae-5a32-4468-be03-90672eaf78ff">
