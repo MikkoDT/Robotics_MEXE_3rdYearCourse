@@ -44,4 +44,9 @@ Determining the position and direction using Forward Kinematics.
 
 <img width="500" alt="FK4" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/495ddfd2-0eed-44fe-82b6-77b8e831553e">
 
+Simulation and visualization of Forward Kinematics using MATLAB:
+
+If θ1=0֯ and θ2=0֯:
+
+<img width="400" alt="Pract3 1" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/d6841e9e-02e9-4e74-a2b3-5c151db5ec96">
 
