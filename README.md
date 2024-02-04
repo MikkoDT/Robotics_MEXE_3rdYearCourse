@@ -66,11 +66,13 @@ And the tutorial for installation of Robotics Toolbox by Peter Corke in Python c
 **FKin.py of SCARA-V3**
 
 **Import librariies first for scientific and matric computations**
+
 import numpy as np 
 
 import math
 
 **link lengths in mm**
+
 a1 = float(input("a1 = "))
 
 a2 = float(input("a2 = "))
@@ -80,6 +82,7 @@ a3 = float(input("a3 = "))
 a4 = float(input("a4 = "))
 
 **joint variables: is mm if f, is degrees if theta**
+
 d1 = float(input("d1 = ")) #20 mm
 
 T2 = float(input("T2 = ")) #30 deg
@@ -87,11 +90,13 @@ T2 = float(input("T2 = ")) #30 deg
 T3 = float(input("T3 = ")) #-90 deg
 
 **degree to radian**
+
 T2 = (T2/180.0)*np.pi
 
 T3 = (T3/180.0)*np.pi
 
 **Parametric Table (theta, alpha, r, d)**
+
 PT = [[(0.0/180.0)*np.pi,(0.0/180.0)*np.pi,0,a1+d1],
 
       [T2,(0.0/180.0)*np.pi,a2,0],
@@ -100,6 +105,7 @@ PT = [[(0.0/180.0)*np.pi,(0.0/180.0)*np.pi,0,a1+d1],
 
 
 **HTM formula and multiplication**
+
 i = 0
 H0_1 = [[np.cos(PT[i][0]),-np.sin(PT[i][0])*np.cos(PT[i][1]),np.sin(PT[i][0])*np.sin(PT[i][1]),PT[i][2]*np.cos(PT[i][0])],
 
@@ -128,6 +134,7 @@ H2_3 = [[np.cos(PT[i][0]),-np.sin(PT[i][0])*np.cos(PT[i][1]),np.sin(PT[i][0])*np
         [0,0,0,1]]
         
 **Multiply the matrices**
+
 H0_1 = np.matrix(H0_1)
 
 print("H0_1= ")
