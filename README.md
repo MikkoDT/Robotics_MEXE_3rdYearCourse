@@ -69,10 +69,7 @@ And the tutorial for installation of Robotics Toolbox by Peter Corke in Python c
 
 **Import librariies first for scientific and matric computations**
 
-import numpy as np 
-
-import math
-
+import numpy as np
 
 **link lengths in mm**
 
