@@ -23,10 +23,12 @@ H2_3.qlim = pi/180*[-90 90];
 Scara_V3 = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA_V3')
 Scara_V3.plot([0 0 0], 'workspace', [-10 75 -80 80 0 80])
 Scara_V3.teach
+
 %% Forward Kinemtics
 %syntax: FK = robot_variable.fkine(joint_variables)
 Af = ([5,pi/2,pi/2]); %joint_variables
 FK = Scara_V3.fkine(Af)
+
 %% Inverse Kinematics
 %syntax: IK = robot_variable.ikine(PV,qready,'mask',[1 1 1 0 0 0])
 q_init=[0 0 0];
