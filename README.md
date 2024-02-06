@@ -1,6 +1,6 @@
 # Robotics 2
 
-# 1. Spherical Manipulators
+# 1. Spherical Wrists
 
 <img width="350" alt="spherical_wrists" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/cbf6bf4e-3f9f-42f0-acbe-7b67684249a9">
 
@@ -67,7 +67,7 @@ And the tutorial for installation of Robotics Toolbox by Peter Corke in Python c
 # FKin.py of SCARA-V3
 
 
-**Import librariies first for scientific and matric computations**
+**Import librariies first for scientific and matrix computations**
 
 import numpy as np
 
