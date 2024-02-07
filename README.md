@@ -168,13 +168,13 @@ syms a1 a2 a3 a4
 
 %% Link lengths
 
-a1 = 20;
+a1 = 5;
 
-a2 = 30;
+a2 = 10;
 
-a3 = 10;
+a3 = 5;
 
-a4 = 15;
+a4 = 10;
 
 %% D-H Parameters [theta, d, r, alpha, offset]
 
