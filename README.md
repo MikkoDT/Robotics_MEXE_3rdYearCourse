@@ -196,7 +196,7 @@ H2_3.qlim = pi/180*[-90 90];
 
 Scara_V3 = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA_V3')
 
-Scara_V3.plot([0 0 0], 'workspace', [-10 75 -80 80 0 80])
+Scara_V3.plot([0 0 0], 'workspace', [-5 30 -30 30 0 30])
 
 Scara_V3.teach
 
