@@ -209,3 +209,25 @@ FK = Scara_V3.fkine(Af)
 
 <img width="450" alt="SCARAV3_Sim" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/3afea411-da9d-4403-8ca8-7e47ec067b73">
 
+# 5. Inverse Kinematics
+
+<img width="500" alt="Ik" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/7a563629-3245-4294-8285-bd52bbf7c681">
+
+ # Graphical Method for Solving Inverse Kinematics
+
+ <img width="500" alt="GM" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/b8ec56c4-ddf1-429a-9a4d-ee6b8d07755b">
+
+* Example:
+
+<img width="400" alt="example1" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/fa95b903-8e36-4d35-a68f-e73ef852fc57">
+
+<img width="400" alt="IK2D" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/68eab695-6b4a-460b-83c1-ce46cd5e8bc0">
+
+# 5.1 Inverse Kinematics of Cartesian Manipulator
+
+<img width="439" alt="CartIK" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/b20a8db9-9d4b-4375-b867-37392ea1f331">
+
+<img width="400" alt="CartIK2" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/310f8600-8fab-4073-8580-aafc1ca042d1">
+
+<img width="400" alt="CartIK3" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/d47c556a-6965-424d-8c09-3905327f1c7b">
+
