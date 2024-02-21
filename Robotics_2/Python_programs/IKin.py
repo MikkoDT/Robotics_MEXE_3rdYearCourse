@@ -39,6 +39,7 @@ theta3 = 180 - phi3
 # Solution 7
 d1 = z0_3 - a1 - a3
 
+# Displaying the Joint Variables
 print("d1 = ", np.around(d1,3))
 print("theta2 = ", np.around(theta2,3))
 print("theta3 = ", np.around(theta3,3))
