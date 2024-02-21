@@ -231,3 +231,12 @@ FK = Scara_V3.fkine(Af)
 
 <img width="400" alt="CartIK3" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/d47c556a-6965-424d-8c09-3905327f1c7b">
 
+5.2 Inverse Kinematics of Articulated Manipulator
+
+<img width="500" alt="IKArt" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/1d8daa29-7eab-438b-b8ac-2029a7b2cd3f">
+
+<img width="500" alt="Arttop" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/6dc2130a-cc45-4a81-b808-fd81d694c2d7">
+
+<img width="500" alt="FrArt" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/5c8250fb-2c90-4cfc-a012-029be5333120">
+
+
