@@ -243,6 +243,12 @@ FK = Scara_V3.fkine(Af)
 
 Codes can also be found from: https://github.com/MikkoDT/Robotics-2-2022-2023
 
+<img width="500" alt="SCV3" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/36bc8b9f-4c40-44be-bd38-4bc0fd7bc5d9">
+
+<img width="400" alt="IK3" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/487495ff-0083-46f7-80d5-7e185f6f7a1e">
+
+<img width="418" alt="IK3-1" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/b2060b2d-6a37-4918-a5e2-7c616104ce90">
+
 # IKin.py of SCARA-V3
 
 ### Inverse Kinematics of SCARA-V3
