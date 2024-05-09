@@ -27,6 +27,8 @@ H2_3.qlim = pi/180*[-90 90];
 
 Scara_V3 = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA_V3')
 Scara_V3.plot([0 0 0], 'workspace', [-120 120 -120 120 0 120])
+
+figure(1)
 Scara_V3.teach
 
 %% Forward Kinemtics
@@ -46,3 +48,28 @@ J1 = jacob0(Scara_V3,q_j1)
 
 q_j2 = [10 27*pi/180 5*pi/18]
 J2 = jacob0(Scara_V3,q_j2)
+
+%% Path and Trajetory
+t = 0:0.5:2
+
+%q paths
+q0 = [0 0 0];
+q1 = [25 -pi/18 -pi/6];
+q2 = [10 pi/6 pi/3];
+q3 = [0 0 0];
+q4 = [25 -pi/18 -pi/6];
+q5 = [10 pi/6 pi/3];
+
+% Trajectory
+Traj1 = jtraj(q0,q1,t)
+Traj2 = jtraj(q1,q2,t)
+Traj3 = jtraj(q2,q3,t)
+Traj4 = jtraj(q4,q5,t)
+Traj5 = jtraj(q5,q0,t)
+
+figure(2)
+plot(Scara_V3,Traj1)
+plot(Scara_V3,Traj2)
+plot(Scara_V3,Traj3)
+plot(Scara_V3,Traj4)
+plot(Scara_V3,Traj5)
