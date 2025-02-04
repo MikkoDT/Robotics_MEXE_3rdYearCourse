@@ -1,5 +1,4 @@
 import numpy as np
-import math
 
 # link lengths in mm
 a1 = float(input("a1 = "))
