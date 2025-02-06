@@ -4,7 +4,7 @@ int servoPin = 7;
 float servoPos = 0;  // Start at home (0 degrees)
 float targetPos = 0; // Desired position
 Servo myServo;
-int t = 10; // Delay between steps (adjust this for speed)
+int t = 20; // Delay between steps (adjust this for speed)
 
 void setup() {
   Serial.begin(9600);
