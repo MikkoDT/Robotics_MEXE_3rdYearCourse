@@ -1,20 +1,6 @@
 # Robotics 2
 
-# 1. Spherical Wrists
-
-<img width="350" alt="spherical_wrists" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/cbf6bf4e-3f9f-42f0-acbe-7b67684249a9">
-
-SCARA PRR Variant 3
-
-3-DOF
-
-<img width="350" alt="3-dof" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/4ba08d84-5d00-416c-b482-3d0347606ce5">
-
-6-DOF
-
-<img width="350" alt="6-DOF" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/e7d7846c-06cc-4ce2-b45a-3e24271c0471">
-
-# 2. D-H Notation
+# 1. D-H Notation
 
 <img width="350" alt="D-H N" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/031a0762-396d-4da9-ac0f-0684a220d31f">
 
@@ -28,7 +14,7 @@ Step 4: Multiply the matrices together
 
 <img width="226" alt="HTM" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/5dd047c7-7b3b-47d4-bb9e-2f7dd596f7b8">
 
-# 3. Forward Kinemtics
+# 2. Forward Kinemtics
 
 <img width="475" alt="FK1" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/e42568c6-3e60-4fb1-b26a-5918474e1986">
 
@@ -58,7 +44,7 @@ If θ1=45֯ and θ2=30֯:
 
 <img width="400" alt="Pract3 3" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/404a2146-a4bc-4aa2-8e60-b0525b733c7a">
 
-# 3.1 Forward Kinematics in Python and MATLAB
+# 2.1 Forward Kinematics in Python and MATLAB
 
 Codes can also be found from: https://github.com/MikkoDT/Robotics-2-2022-2023
 And the tutorial for installation of Robotics Toolbox by Peter Corke in Python can be found here: https://youtube.com/playlist?list=PLUgsbeZHs9qMFXTIQPW0clLoRkf_oiBoX&si=0sYu2QIJ4NWilTq7
@@ -208,6 +194,20 @@ Af = ([5,pi/2,pi/2]); %joint_variables
 FK = Scara_V3.fkine(Af)
 
 <img width="450" alt="SCARAV3_Sim" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/3afea411-da9d-4403-8ca8-7e47ec067b73">
+
+# 4. Spherical Wrists
+
+<img width="350" alt="spherical_wrists" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/cbf6bf4e-3f9f-42f0-acbe-7b67684249a9">
+
+SCARA PRR Variant 3
+
+3-DOF
+
+<img width="350" alt="3-dof" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/4ba08d84-5d00-416c-b482-3d0347606ce5">
+
+6-DOF
+
+<img width="350" alt="6-DOF" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/e7d7846c-06cc-4ce2-b45a-3e24271c0471">
 
 # 5. Inverse Kinematics
 
