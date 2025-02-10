@@ -4,9 +4,10 @@
 
 <img width="350" alt="D-H N" src="https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/assets/93197249/031a0762-396d-4da9-ac0f-0684a220d31f">
 
+### Step 1: Assign Frames according to the 4 D-H Frame Rules
 ![image](https://github.com/user-attachments/assets/5b826305-30ec-4325-8116-14664a11f50c)
 
-### Step 1: Assign Frames according to the 4 D-H Frame Rules
+
 
 ![image](https://github.com/user-attachments/assets/79440142-4fdc-42b5-a449-99e135c0341e)
 
