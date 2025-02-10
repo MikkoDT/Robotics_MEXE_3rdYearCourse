@@ -7,11 +7,16 @@
 ### Step 1: Assign Frames according to the 4 D-H Frame Rules
 ![image](https://github.com/user-attachments/assets/5b826305-30ec-4325-8116-14664a11f50c)
 
+### Step 2: Fill out the D-H Parametric Table
+![image](https://github.com/user-attachments/assets/4b259be4-a14e-46d4-b24d-ad7c818d384d)
 
+### Step 3: Plug the table into the Homogeneous Transformation Matrix formula.
+![image](https://github.com/user-attachments/assets/7b7cebca-0c8e-42a3-90a5-0bef1424b3d6)
+![image](https://github.com/user-attachments/assets/9ee3b9d7-9c72-46b9-bb1d-39bf117e5dd2)
+![image](https://github.com/user-attachments/assets/2a198bc1-6872-4169-beff-08a71dff1b80)
+![image](https://github.com/user-attachments/assets/dbdf4db5-e810-4b9a-84c6-31ecfdee40f5)
 
-![image](https://github.com/user-attachments/assets/79440142-4fdc-42b5-a449-99e135c0341e)
-
-Example:
+Example 1:
 
 Step 3: Plug the table into the Homogeneous Transformation Matrix formula.
 
