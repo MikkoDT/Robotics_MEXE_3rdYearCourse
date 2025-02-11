@@ -25,7 +25,7 @@ H2_3 = Link([0,0,a3,0,0,0]);
 H2_3.qlim = pi/180*[-90 90];
 
 Spart = SerialLink([H0_1 H1_2 H2_3], 'name', 'Spartankit')
-Spart.plot([0 0 0], 'workspace', [-3 20 -20 20 0 25])
+Spart.plot([0 0 0], 'workspace', [-3 15 -15 15 0 15])
 
 figure(1)
 Spart.teach
