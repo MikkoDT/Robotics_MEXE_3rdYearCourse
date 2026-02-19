@@ -40,9 +40,9 @@ By the end of this laboratory experiment, students will be able to:
   * Construct the parametric table.
   * Derive the Homogeneous Transformation matrices of the mechanical manipulator assigned to your group.
   * Upload and post the pictures directly in the GitHub ReadMe file.
-* **Manipulator Link Format:** Use the following format to link your assigned manipulator references:
-  > **Assigned Manipulator:** [Insert Manipulator Name/Model]  
-  > **Reference Link:** [Click here to view documentation](Insert URL Here)
+* **Manipulator Link:** 
+  > **Assigned Manipulator:** [https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/blob/main/MexE_409_Robotics_2/Laboratory_Activities/Laboratory_1_Mechanical_Manipulators.pdf]  
+ 
 * **Data Integration:** Post the simulations and the analytical comparisons of the Python and MATLAB findings.
 
 #### 2. Programmer 1 (Python)
