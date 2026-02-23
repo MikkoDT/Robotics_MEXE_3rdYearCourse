@@ -8,8 +8,7 @@
 
 | Section | Submission Date | Presentation Date & Venue |
 | :--- | :--- | :--- |
-| **MEXE 3203 / 3204** | February 26, 2026, 11:59 PM | February 27, 2026, 7:00 AM (Online) |
-| **MEXE 3201 & 3202** | February 27, 2026, 11:59 PM | February 28, 2026, 5:00 PM (Online) |
+| **MEXE 3201 & 3202 & 3203 / 3204** | February 28, 2026, 11:59 PM | March 1, 2026 (Face to Face) |
 
 ---
 
