@@ -70,3 +70,6 @@ By the end of this preliminary project, students will be able to:
 [ sin(θi)   cos(θi)cos(αi)  -cos(θi)sin(αi)  ai*sin(θi) ]
 [   0         sin(αi)          cos(αi)          di      ]
 [   0            0                0              1      ]
+
+Intended Learning Outcome (ILO),Description,Points
+ILO1 (SO1),Calculate the Forward and Inverse Kinematics of 3-DOF robotic manipulators using D-H parameters and Graphical Methods.,60 pts
