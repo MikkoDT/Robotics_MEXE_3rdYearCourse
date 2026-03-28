@@ -85,3 +85,12 @@ By the end of this laboratory experiment, students will be able to:
 | **ILO2 (SO5)** | Analyze robotic motion by computing the Jacobian Matrix to identify singularities and velocity relationships in 3-DOF and 6-DOF manipulators. | 10 pts |
 | **ILO3 (SO11)** | Utilize modern engineering tools, such as Python, MATLAB, and Arduino, to implement trajectory planning and simulate robotic control systems. | 25 pts |
 | **ILO4 (SO7)** | Present effective technical reports and design documentation through laboratory manuals and a professional portfolio website hosted on GitHub. | 20 pts |
+
+### Detailed Grading Matrix
+
+| Intended Learning Outcome (ILO) | Exemplary | Competent | Needs Improvement | Poor/Missing | Max Points |
+| :--- | :--- | :--- | :--- | :--- | :---: |
+| **ILO1: Kinematics (5 pts)** | Flawless diagram, D-H table, and matrices. | Minor labeling or arithmetic errors. | Major errors in D-H parameters or matrices. | Missing or fundamentally flawed. | **5** |
+| **ILO2: Analysis (10 pts)** | Accurate Jacobian & singularity analysis for *both* 3-DOF and 6-DOF. | Minor errors in the 3-DOF or 6-DOF analysis. | Completes analysis for 3-DOF only; missing 6-DOF. | Fails to compute Jacobian or analyze motion. | **10** |
+| **ILO3: Simulation (25 pts)** | Flawless Python/MATLAB execution for *both* 3-DOF and 6-DOF across 5 test points. Output matches perfectly. | Codes run but have minor bugs or slight output discrepancies between software. | Fails to build the 6-DOF simulation or significant bugs in one language. | Programs fail to run; missing either Python or MATLAB. | **25** |
+| **ILO4: Presentation (20 pts)** | Perfect GitHub repository. Strict 10-min presentation with strong mathematical verification and Q&A. | Good repo but minor missing elements. Presentation slightly over time or weak verification. | Unorganized repo. Poor presentation flow and struggles in Q&A. | Repo not submitted or presentation unprepared. | **20** |
