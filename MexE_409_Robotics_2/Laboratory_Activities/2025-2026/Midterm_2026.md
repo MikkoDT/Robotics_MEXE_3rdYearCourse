@@ -53,7 +53,7 @@
 ### 💻 Programmer 2
 - [ ] Modify the Forward Kinematics program from the Prelim project to solve *both* Forward and Inverse Kinematics.
 - [ ] Integrate the Inverse Kinematics program with the physical Spartan Robokit. 
-- [ ] Conduct a 5-point test (using 5 different sets of target position vectors). Use the attached Excel file as a checklist for these points.
+- [ ] Conduct a 5-point test (using 5 different sets of target position vectors). Use the attached Excel file as a checklist for these points: **[https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse/blob/main/MexE_409_Robotics_2/Laboratory_Activities/2025-2026/IK.xlsx]**
 - [ ] Perform a physical pick-and-place test using the Inverse Kinematics method. **Note:** Use a ruler or measuring tape during execution to verify coordinates. Ensure this measurement process is clearly visible in the recorded video.
 - [ ] Upload the integration script into a designated folder inside this repository.
 
