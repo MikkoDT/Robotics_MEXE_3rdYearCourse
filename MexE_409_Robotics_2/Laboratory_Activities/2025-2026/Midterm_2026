@@ -1,0 +1,73 @@
+# BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING
+## ROBOTICS 2: MIDTERM PROJECT
+### Inverse Kinematics
+
+---
+
+### 📅 Important Dates
+
+| Section | Submission Date (11:59 PM) | Presentation Date |
+| :--- | :--- | :--- |
+| **MEXE 3203 / 3204** | April 24, 2026 | April 26, 2026 |
+| **MEXE 3201 & 3202** | April 25, 2026 | April 26, 2026 |
+
+---
+
+### 🎯 Objectives
+By the end of this midterm project, students will be able to:
+1. Derive and mathematically prove the Inverse Kinematics (IK) solution for the Spartan Robokit.
+2. Develop a custom Python-based calculator to compute Inverse Kinematics and visualize the manipulator's workspace.
+3. Integrate Inverse Kinematics algorithms into MATLAB to establish a functioning digital twin that controls the physical Spartan Robokit.
+4. Experimentally validate the IK model by performing position vector tests and evaluating the physical spatial accuracy using measuring tools.
+5. Analyze and classify computational IK outputs to determine their operational validity (e.g., identifying mirrored or undefined configurations).
+
+---
+
+### 🧰 Materials
+1. Laptops
+2. Visual Studio Code (VSCode) with Python extension
+3. MATLAB with Robotics Toolbox by Peter Corke
+4. Spartan Robokit
+5. Physical measuring tools (Ruler or Measuring Tape)
+
+---
+
+### 📋 Team Member Responsibilities & Instructions
+
+#### 1. Project Engineer
+* **Repository Setup:** Create a private GitHub repository for the group midterm project and add the lecturer as a collaborator.
+* **Naming Convention:** Title the repository exactly as follows: 
+  `Robotics2_Mechanical_Manipulator_Simulation_Section_Group#_MidtermProject_2026`
+* **Documentation:** Write these project instructions and procedures into the repository's `README.md` file.
+* **Kinematics & Formatting:** Draw the kinematic diagram with proper labels, construct the parametric table, and derive the Homogeneous Transformation matrices for the Spartan Robokit. Upload and embed these pictures directly in the `README.md` file.
+* **Data Integration & Video Documentation:** * Upload a side-by-side video demonstrating the controlled digital twin alongside the physical robot being driven by that digital twin. This must encompass the 5-point test of the position vector.
+  * Analyze and classify the inverse kinematics outputs in your documentation. Identify if the output is: **a) Correct Inverse Kinematics, b) FK = IK, c) Mirror, or d) Undefined.**
+* **Team Support:** Assist the Project Leader in deriving and explaining the mathematical solution for the Spartan Robokit's inverse kinematics.
+
+#### 2. Programmer 1 (Python)
+* **Scripting:** Build an Inverse Kinematics and Workspace calculator in Python.
+* **Parameters:** Strictly use the specific physical link lengths of the Spartan Robokit in your Python programs.
+* **Defense Prep:** Prepare thoroughly for the Q&A portion regarding the derivation of the formulae used in your program.
+* **Submission:** Post your completed Python program in a designated folder inside the repository created by the Project Engineer.
+
+#### 3. Programmer 2 (MATLAB & Hardware)
+* **Scripting:** Edit your Forward Kinematics program from the Preliminary project and upgrade it to solve *both* Forward and Inverse Kinematics.
+* **Integration & Testing:** Integrate the Inverse Kinematics program with the Spartan Robokit hardware. Test **5 specific test points** (5 different sets of position vector values). *Note: Use the attached Excel file as a checklist for these 5 test points.*
+* **Practical Application:** Execute a pick-and-place physical test using the Inverse Kinematics method. **You must use a ruler or measuring tape to verify spatial targets during this process.** This measurement validation must be clearly visible in the video you record.
+* **Submission:** Post your completed MATLAB program in a designated folder inside the repository created by the Project Engineer.
+
+#### 4. Project Leader
+* **Presentation Prep:** Prepare a strict **10-minute presentation** focused heavily on the derivation of the inverse kinematics solution for the Spartan Robokit. 
+* **Execution:** You may use physical markers and rulers, or a digital whiteboard, to clearly explain the mathematical derivation to the panel.
+* **Conclusion:** Deliver the final technical conclusion of the project.
+
+---
+
+### 📊 Grading Rubric (Total: 70 Points)
+*Assessment is based on the following Intended Learning Outcomes (ILOs):*
+
+| Intended Learning Outcome (ILO) | Description | Points |
+| :--- | :--- | :---: |
+| **ILO1 (SO1)** | Calculate the Forward and Inverse Kinematics of 3-DOF robotic manipulators using D-H parameters and Graphical Methods. | **20 pts** |
+| **ILO2 (SO5)** | Analyze robotic motion by computing the Jacobian Matrix to identify singularities and velocity relationships in 3-DOF and 6-DOF manipulators. | **40 pts** |
+| **ILO4 (SO7)** | Present effective technical reports and design documentation through laboratory manuals and a professional portfolio website hosted on GitHub. | **10 pts** |
