@@ -75,6 +75,9 @@
 ### 3. Homogeneous Transformation Matrices (HTM)
 *[Insert HTM Equations Image Here]*
 
+### 4. Inverse Kinematics Derivation
+*[Insert derivation Images Here]*
+
 ---
 
 ## 🎥 Documentation and Media
