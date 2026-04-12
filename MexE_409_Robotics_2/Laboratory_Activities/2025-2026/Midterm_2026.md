@@ -6,12 +6,12 @@
 ### 📅 Important Dates
 
 **Submission Dates:**
-* **MEXE-3203/04:** April 24, 2026, 11:59 PM
-* **MEXE-3201 & 3202:** April 25, 2026, 11:59 PM
+* **MEXE-3203/04:** May 2, 2026, 9:00 AM
+* **MEXE-3201 & 3202:** May 2, 2026, 11:59 PM
 
 **Presentation Dates:**
-* **MEXE-3203/04:** April 26, 2026
-* **MEXE-3201 & 3202:** April 26, 2026
+* **MEXE-3203/04:** May 2, 2026
+* **MEXE-3201 & 3202:** May 3, 2026
 
 ---
 
