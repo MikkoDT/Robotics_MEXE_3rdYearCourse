@@ -41,7 +41,6 @@ By the end of this final project, students will be able to:
 * **Kinematics & Formatting:** * Draw the kinematic diagram with proper labels.
   * Construct the parametric table.
   * Derive the Homogeneous Transformation matrices.
-  * Detail the complete Inverse Kinematics derivation.
   * Detail the final Jacobian Matrix derivation.
   * Upload and embed all pictures and mathematical derivations directly into the `README.md` file.
 * **Data Integration:** Upload the final outputs, including pictures of the 5-DOF setup, source codes, and video demonstrations of the trajectory planning in action.
